@@ -19,4 +19,4 @@ Review the calculator first. Confirm the app's identity and installation source 
 
 ## Run the review
 
-From the repository folder, run `python3 triage.py`. The script prints the review result and the reasons for each flagged app. [Open the Python script](triage.py)# android-permission-triage
+From the repository folder, run `python3 triage.py`. The script prints the review result and the reasons for each flagged app. [Open the Python script](triage.py)
